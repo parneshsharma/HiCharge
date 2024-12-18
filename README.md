@@ -1,4 +1,4 @@
-# Sample Firebase Project
+# HiCharge
 
 This project demonstrates the integration of Firebase services into a web application. It includes examples of authentication, Firestore database usage, and cloud functions.
 
@@ -40,3 +40,4 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
